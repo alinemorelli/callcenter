@@ -1,0 +1,6 @@
+[submodule "callcenter-api"]
+	path = callcenter-api
+	url = git@github.com:alinemorelli/callcenter-api.git
+[submodule "callcenter-front"]
+	path = callcenter-front
+	url = git@github.com:alinemorelli/callcenter-front.git
