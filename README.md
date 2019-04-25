@@ -21,6 +21,7 @@ To start the development process is necessary to run the solution locally follow
 
 * Run `docker-compose up` to run the database and API
 * The API services will be available at localhost:4000
+* The web dashboad will be available at localhost:3000
 
 Go to callcenter-api path using `cd callcenter-api`
 * Run `yarn install` to install all the necessary dependecies.
